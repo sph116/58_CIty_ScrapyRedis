@@ -1,5 +1,4 @@
 # 58_CIty_ScrapyRedis
-使用scrapy_redis
 
 # 前言
   1.使用scrapy_redis部署 主从式分布式爬虫 抓取58同城房产数据。  
